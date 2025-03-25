@@ -3,7 +3,7 @@
 </p>
 
 # Nio
-👨‍💻 Games Designer and Programmer<br>👨‍🎓 Studying Games Design and Programming at University
+👨‍💻 Aspiring Tech Enthusiast<br>👨‍🎓 Studying Games Design and Programming at University
 
 
 # Tech Stack
